@@ -1,4 +1,4 @@
-### HELLO PLEASE FOLLOW ME FOR SUPPORT THANK YOU 🙏😀
+### [HELLO PLEASE FOLLOW ME FOR SUPPORT THANK YOU 🙏😀]
 
 [TAP HERE OPEN BLACK PANTHER MD](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD)
 
@@ -16,20 +16,14 @@
         <img width="900" height="1" alt="">
       </td>
 
-      </tr>
+      
   <tr>
     <th><a href="source/plugins/starlists/README.md">💫 Star lists</a></th>
     <th><a href="source/plugins/calendar/README.md">📆 Commit calendar</a></th>
   </tr>
-  <tr>
+  <tr>>
 
-  </tr>
-  <tr>
-    <th><a href="source/plugins/sponsorships/README.md">💝 GitHub Sponsorships</a></th>
-    <th><a href="source/plugins/sponsors/README.md">💕 GitHub Sponsors</a></th>
-  </tr>
-  <tr>
-
+    
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=.
 

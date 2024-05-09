@@ -1,45 +1,37 @@
 ### HELLO PLEASE FOLLOW ME FOR SUPPORT THANK YOU 🙏😀
 
-### If looking for bot link tap up there on respiratorys *main bot IBRAHIM-AI-10.10(BMW)*
+[TAP HERE OPEN BLACK PANTHER MD](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD)
 
-[![MasterHead](https://telegra.ph/file/a238340352ed8841782a7.jpg)](https://github.com/ibrahimaitech)
+
+[TAP HERE OPEN BMW MD](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
+
+
+[![MasterHead](https://telegra.ph/file/7260c0965d835f26fad48.jpg)](https://github.com/ibrahimaitech)
 
 
 <h1 align="center"><b>нγ, ι αм Ibrahim adams  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<td  align="center">
+        <details open><summary>Repositories from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
+        <details open><summary>Languages from star lists</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
 
+      </tr>
+  <tr>
+    <th><a href="source/plugins/starlists/README.md">💫 Star lists</a></th>
+    <th><a href="source/plugins/calendar/README.md">📆 Commit calendar</a></th>
+  </tr>
+  <tr>
+
+  </tr>
+  <tr>
+    <th><a href="source/plugins/sponsorships/README.md">💝 GitHub Sponsorships</a></th>
+    <th><a href="source/plugins/sponsors/README.md">💕 GitHub Sponsors</a></th>
+  </tr>
+  <tr>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum.&hearts;++;A+Passionate+Front-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher..<3"></a>
-</p>
-
-
-
-- 🔭 I’m currently working on [BMW MD](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
-
-- 📫 [How to reach me!](https://ibrahim-tech-1-4a7321f212d3.herokuapp.com/)
-
-- ⚡ Always ready to help!
-
----
-
-
-
-
-
-
-- 🌱 I’m currently learning **Coding**
-
-- 💬 Ask me about **Technology , WhatsApp Bots**
-
-
-- ⚡ Fun fact **I am Funny**
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=.
 
 
 <a href="http://wa.me/+254710772666" target="blank"><img align="center" 

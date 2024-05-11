@@ -6,21 +6,15 @@
 [TAP HERE OPEN BMW MD](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 https://github-stats-alpha.vercel.app/api?username={your-github-username}
-   ```
    
-   [![Example](https://github-stats-alpha.vercel.app/api?username=ibrahimiaitech "Example")](https://github-stats-alpha.vercel.app/api?username=ibrahimaitech "Example")
-   
+   [![Example](https://github-stats-alpha.vercel.app/api?username=tuhinpal "ibrahimaitech")](https://github-stats-alpha.vercel.app/api?username=tuhinpal "ibrahimaitech")
+
 https://github-stats-alpha.vercel.app/api?username={your-github-username}
-   ```
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-```
-
-
+https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 | `date_night` ![date_night][date_night] | `one_dark_pro` ![one_dark_pro][one_dark_pro] | `rose` ![rose][rose] |

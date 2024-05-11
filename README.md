@@ -5,8 +5,28 @@
 
 [TAP HERE OPEN BMW MD](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+https://github-stats-alpha.vercel.app/api?username={your-github-username}
+   ```
+   
+   [![Example](https://github-stats-alpha.vercel.app/api?username=tuhinpal "Example")](https://github-stats-alpha.vercel.app/api?username=tuhinpal "Example")
+   
+https://github-stats-alpha.vercel.app/api?username={your-github-username}
+   ```
 
-[![MasterHead](https://telegra.ph/file/7260c0965d835f26fad48.jpg)](https://github.com/ibrahimaitech)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+```
+
+
+
+
+| `date_night` ![date_night][date_night] | `one_dark_pro` ![one_dark_pro][one_dark_pro] | `rose` ![rose][rose] |
+| `holi` ![holi][holi] | `neon` ![neon][neon] | `blue_navy` ![blue_navy][blue_navy] |
+| `calm_pink` 
+
 
 
 <h1 align="center"><b>нγ, ι αм Ibrahim adams  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>

@@ -8,30 +8,16 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-https://github-stats-alpha.vercel.app/api?username={your-github-username}
-   
-   [![Example](https://github-stats-alpha.vercel.app/api?username=tuhinpal "ibrahimaitech")](https://github-stats-alpha.vercel.app/api?username=tuhinpal "ibrahimaitech")
+<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
-https://github-stats-alpha.vercel.app/api?username={your-github-username}
-
-https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
-
-| `date_night` ![date_night][date_night] | `one_dark_pro` ![one_dark_pro][one_dark_pro] | `rose` ![rose][rose] |
-| `holi` ![holi][holi] | `neon` ![neon][neon] | `blue_navy` ![blue_navy][blue_navy] |
-| `calm_pink` 
-
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h1 align="center"><b>нγ, ι αм Ibrahim adams  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <td  align="center">
-        <th><a href="source/plugins/skyline/README.md">🌇 GitHub Skyline</a></th>
-    <th><a href="source/plugins/pagespeed/README.md">⏱️ Google PageSpeed</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>GitHub Skyline</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt=""></img></details>
-        <details><summary>GitHub City</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></details>
+
+
+
+   <details><summary>GitHub City</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
         <td  align="center">

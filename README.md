@@ -9,7 +9,7 @@
 https://github-stats-alpha.vercel.app/api?username={your-github-username}
    ```
    
-   [![Example](https://github-stats-alpha.vercel.app/api?username=tuhinpal "Example")](https://github-stats-alpha.vercel.app/api?username=tuhinpal "Example")
+   [![Example](https://github-stats-alpha.vercel.app/api?username=ibrahimiaitech "Example")](https://github-stats-alpha.vercel.app/api?username=ibrahimaitech "Example")
    
 https://github-stats-alpha.vercel.app/api?username={your-github-username}
    ```

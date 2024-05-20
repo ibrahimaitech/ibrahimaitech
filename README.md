@@ -3,17 +3,16 @@
 [TAP HERE OPEN BLACK PANTHER MD](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD)
 
 
-[TAP HERE OPEN BMW MD](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10)
+[TAP HERE OPEN BMW MD](https://github.com/ibrahimaitech/BMW-MD)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
+<div align="center" id="top">
+  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h1 align="center"><b>нγ, ι αм Ibrahim adams  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<td  align="center">
+  <a href="https://profile-readme-generator.com">Demo</a>
+</div>
 
 
 

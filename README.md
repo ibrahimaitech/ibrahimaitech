@@ -5,6 +5,9 @@
 
 [TAP HERE OPEN BMW MD](https://github.com/ibrahimaitech/BMW-MD)
 
+
+[TAP HERE FOR FULL INFO](https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO)
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 

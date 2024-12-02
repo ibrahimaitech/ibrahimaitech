@@ -1,14 +1,21 @@
-### [HELLO PLEASE FOLLOW ME FOR SUPPORT THANK YOU 🙏😀]
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-[TAP HERE OPEN BLACK PANTHER MD](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD)
+# [PLEASE FOLLOW ME FOR SUPPORT THANK YOU 🙏😀]
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 
 [TAP HERE OPEN BMW MD](https://github.com/ibrahimaitech/BMW-MD)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-[TAP HERE FOR FULL INFO](https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+[TAP HERE FOR FULL INFO](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 
 <div align="center" id="top">

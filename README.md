@@ -6,12 +6,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 
-[TAP HERE OPEN BMW MD](https://github.com/ibrahimaitech/BMW-MD)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+[`TAP HERE OPEN BWM XMD REPO`](https://github.com/ibrahimaitech/BWM-XMD)
 
 
-[TAP HERE FOR FULL INFO](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
+
+
+[`TAP HERE FOR FULL INFO`](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">

@@ -1,12 +1,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-# [PLEASE FOLLOW ME FOR SUPPORT THANK YOU 🙏😀]
+# [FOLLOW MY ACCOUNT FOR MORE 🙏😀]
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 
-[`TAP HERE OPEN BWM XMD REPO`](https://github.com/ibrahimaitech/BWM-XMD)
+[`TAP HERE OPEN BWM XMD REPO`](https://github.com/devibraah/BWM-XMD)
 
 
 

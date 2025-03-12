@@ -53,7 +53,7 @@
 <p align="center">
   <!-- 3D Globe Animation -->
   <a href="https://github.com/ibrahimaitech">
-    <img src="https://files.catbox.moe/l5fcns.jpg" width="400" alt="3D GitHub Globe">
+    <img src="[https://files.catbox.moe/l5fcns.jpg](https://files.catbox.moe/gav8qx.webp)" width="400" alt="3D GitHub Globe">
   </a>
   
   <!-- Heatmap Contribution Graph -->

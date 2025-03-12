@@ -49,25 +49,15 @@
 [![Latest YouTube Video](https://img.youtube.com/vi/MsHd3uzDUhY/0.jpg)](https://www.youtube.com/watch?v=MsHd3uzDUhY)
 
 ---
-
-## 🌍 **Profile Metrics**
+## 🌍 **Live Contribution Metrics**
 <p align="center">
-  <!-- Smooth Glowing GIF Animation -->
-  <img src="https://files.catbox.moe/w9bizm.gif" width="400" alt="Glowing Metrics">
+  <!-- 3D Globe Animation -->
+  <a href="https://github.com/devibraah">
+    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.animation.svg" width="400" alt="3D GitHub Globe">
+  </a>
   
-  <!-- GitHub PageSpeed Score -->
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" width="400" alt="PageSpeed Scores">
-</p>
-
----
-
-## 🌀 **Live Activity & Contributions**
-<p align="center">
-  <!-- 3D GitHub Skyline -->
-  <img src="https://github.com/devibraah/devibraah/blob/main/assets/skyline.svg" width="400" alt="GitHub Skyline">
-  
-  <!-- Live Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devibraah&theme=react-dark&bg_color=000000&hide_border=true&line=00FF00&point=FF0000" width="100%" alt="Contribution Graph">
+  <!-- Heatmap Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devibraah&theme=react-dark&bg_color=000000&hide_border=true&line=FF4500&point=00FF00" width="100%" alt="Heatmap Graph">
 </p>
 
 ---
@@ -79,9 +69,27 @@
 
 ---
 
-## 🌟 **Profile Animation**
+## 🌆 **3D Skyline & Page Speed**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Feel+free+to+explore+my+projects!;Glowing+UI+in+Action+🚀" alt="Typing SVG">
+  <!-- GitHub Skyline -->
+  <img src="https://files.catbox.moe/v488ne.webp" width="400" alt="GitHub Skyline">
+  
+  <!-- GitHub PageSpeed Score -->
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" width="400" alt="PageSpeed Scores">
+</p>
+
+---
+
+## 🎵 **Glowing Typing Animation**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=700&height=40&lines=Welcome+to+Ibrahim+Adams'+GitHub!;Software+Engineer+%7C+BWM-XMD+Creator;Explore+my+projects+and+code!" alt="Typing Animation">
+</p>
+
+---
+
+## 🚀 **Tech Stack & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,typescript,python,nodejs,react,nextjs,flutter,figma,linux,github,git,tailwind" />
 </p>
 
 ---

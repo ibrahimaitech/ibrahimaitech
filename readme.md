@@ -61,8 +61,29 @@
 
 ## 🌍 **Profile Metrics**
 <p align="center">
-  <img src="https://files.catbox.moe/w9bizm.gif" width="400" alt="GitHub City">
+  <!-- Smooth GIF Animation -->
+  <img src="https://files.catbox.moe/w9bizm.gif" width="400" alt="Glowing Metrics" style="border-radius: 10px; box-shadow: 0px 0px 20px cyan;">
+  
+  <!-- GitHub PageSpeed Score -->
   <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" width="400" alt="PageSpeed Scores">
+</p>
+
+---
+
+## 🌀 **Live Activity & Contributions**
+<p align="center">
+  <!-- 3D GitHub Skyline -->
+  <img src="https://skyline.github.com/devibraah/2024" width="400" alt="GitHub Skyline">
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devibraah&theme=react-dark&bg_color=000000&hide_border=true&line=00FF00&point=FF0000" width="400" alt="Contribution Graph">
+</p>
+
+---
+
+## 🔥 **Trending GitHub Activity**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devibraah&theme=radical&margin-w=5&column=6&no-frame=true" width="100%" alt="GitHub Trophies">
 </p>
 
 ---

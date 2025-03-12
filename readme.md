@@ -50,19 +50,10 @@
 
 ---
 
-## 🌟 **Support Me**
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ibrahimadams" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&color=FFDD00&labelColor=000000" alt="Buy Me A Coffee">
-  </a>
-</p>
-
----
-
 ## 🌍 **Profile Metrics**
 <p align="center">
-  <!-- Smooth GIF Animation -->
-  <img src="https://files.catbox.moe/w9bizm.gif" width="400" alt="Glowing Metrics" style="border-radius: 10px; box-shadow: 0px 0px 20px cyan;">
+  <!-- Smooth Glowing GIF Animation -->
+  <img src="https://raw.githubusercontent.com/devibraah/devibraah/main/assets/animated-glow.gif" width="400" alt="Glowing Metrics">
   
   <!-- GitHub PageSpeed Score -->
   <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" width="400" alt="PageSpeed Scores">
@@ -73,10 +64,10 @@
 ## 🌀 **Live Activity & Contributions**
 <p align="center">
   <!-- 3D GitHub Skyline -->
-  <img src="https://skyline.github.com/devibraah/2024" width="400" alt="GitHub Skyline">
+  <img src="https://github.com/devibraah/devibraah/blob/main/assets/skyline.svg" width="400" alt="GitHub Skyline">
   
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devibraah&theme=react-dark&bg_color=000000&hide_border=true&line=00FF00&point=FF0000" width="400" alt="Contribution Graph">
+  <!-- Live Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devibraah&theme=react-dark&bg_color=000000&hide_border=true&line=00FF00&point=FF0000" width="100%" alt="Contribution Graph">
 </p>
 
 ---
@@ -84,6 +75,13 @@
 ## 🔥 **Trending GitHub Activity**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devibraah&theme=radical&margin-w=5&column=6&no-frame=true" width="100%" alt="GitHub Trophies">
+</p>
+
+---
+
+## 🌟 **Profile Animation**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Feel+free+to+explore+my+projects!;Glowing+UI+in+Action+🚀" alt="Typing SVG">
 </p>
 
 ---

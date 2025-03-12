@@ -53,7 +53,7 @@
 ## 🌍 **Profile Metrics**
 <p align="center">
   <!-- Smooth Glowing GIF Animation -->
-  <img src="https://raw.githubusercontent.com/devibraah/devibraah/main/assets/animated-glow.gif" width="400" alt="Glowing Metrics">
+  <img src="https://files.catbox.moe/w9bizm.gif" width="400" alt="Glowing Metrics">
   
   <!-- GitHub PageSpeed Score -->
   <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" width="400" alt="PageSpeed Scores">

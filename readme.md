@@ -39,7 +39,7 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devibraah&show_icons=true&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimaitech&show_icons=true&theme=radical" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devibraah&theme=radical" width="49%">
 </p>
 
@@ -52,8 +52,8 @@
 ## 🌍 **Live Contribution Metrics**
 <p align="center">
   <!-- 3D Globe Animation -->
-  <a href="https://github.com/devibraah">
-    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.animation.svg" width="400" alt="3D GitHub Globe">
+  <a href="https://github.com/ibrahimaitech">
+    <img src="https://files.catbox.moe/l5fcns.jpg" width="400" alt="3D GitHub Globe">
   </a>
   
   <!-- Heatmap Contribution Graph -->
@@ -64,7 +64,7 @@
 
 ## 🔥 **Trending GitHub Activity**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devibraah&theme=radical&margin-w=5&column=6&no-frame=true" width="100%" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahimaitech&theme=radical&margin-w=5&column=6&no-frame=true" width="100%" alt="GitHub Trophies">
 </p>
 
 ---

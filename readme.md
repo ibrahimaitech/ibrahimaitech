@@ -61,7 +61,7 @@
 
 ## 🌍 **Profile Metrics**
 <p align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" width="400" alt="GitHub City">
+  <img src="https://files.catbox.moe/w9bizm.gif" width="400" alt="GitHub City">
   <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" width="400" alt="PageSpeed Scores">
 </p>
 
